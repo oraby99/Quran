@@ -75,7 +75,7 @@
               "browserTarget": "quran:build:production"
             },
             "development": {
-              "browserTarget": "quran:build:development",
+              "browserTarget": "quran:build:development"
             }
           },
           "defaultConfiguration": "development"
