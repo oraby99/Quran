@@ -7,11 +7,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SurahPageComponent } from './components/surah-page/surah-page.component';
 import { UrlInterceptor } from './interceptors/http.interceptor';
+import { QuranComponent } from './components/quran/quran.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SurahPageComponent
+    SurahPageComponent,
+    QuranComponent
   ],
   imports: [
     BrowserModule,
